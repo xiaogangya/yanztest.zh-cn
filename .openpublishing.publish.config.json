@@ -7,7 +7,7 @@
       "docset_name": "yanzdoc",
       "build_source_folder": "yanzdoc",
       "build_output_subfolder": "yanzdoc",
-      "locale": "zh-cn",
+      "locale": "it-it",
       "version": 0,
       "open_to_public_contributors": true,
       "type_mapping": {
@@ -24,7 +24,7 @@
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
-      "url": "https://github.com/Microsoft/templates.docs.msft.zh-cn",
+      "url": "https://github.com/Microsoft/templates.docs.msft.it-it",
       "branch": "master",
       "branch_mapping": {}
     }
